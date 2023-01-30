@@ -6,7 +6,7 @@
 
 Born and raised in France and currently living in Buenos Aires, I obtained my Machine Learning Engineer Certificate at Anyone AI (+650 hours of training) while finishing my Sound Engineering program at UNTreF.
 
-I’ve spent this last year working on AI projects using Deep Learning for image classification/detection, NLP and as well as more classical Machine Learning techniques. All this implementing dockerized micro-services architectures, with Flask-API, Redis, and deploying on AWS. My last project consisted of Object Detection for in-store inventory management using Convolutional Neural Networks to detect missing articles using Computer Vision.
+I’ve spent this last year working on AI projects using Deep Learning for image classification/detection, NLP as well as more classical Machine Learning techniques. All this implementing dockerized micro-services architectures, with Flask-API, Redis, and deploying on AWS. My last project consisted of Object Detection for in-store inventory management using Convolutional Neural Networks to detect missing articles using Computer Vision.
 
 More related to my background, I started to code on MATLAB and I now have +3 years of experience working with Python. I’ve worked on sound-oriented projects like an Impulse Response software for acoustic measurement & characterization of a room, a Kalman Filter to predict audio signals in noisy environment and most recently Speaker Diarization using Siamese Neural Networks. 
 
