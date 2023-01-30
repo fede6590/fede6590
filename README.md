@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Federico Ferreyra </h1>
+<h1 align="center">Hi everyone 👋, I'm Federico Ferreyra </h1>
 <h3 align="center">Machine Learning & Sound Engineering
 </h3>
 
 ---
 
-32 years old, born and raised in France and currently living in Buenos Aires, Argentina.
+Born and raised in France and currently living in Buenos Aires, I'm finishing my Sound Engineering program while I obtained my Machine Learning Engineer Certificate at Anyone AI (+650 hours of training).
 
-I'm finishing my Sound Engineering program and I've just got my ML Engineer Certificate at Anyone AI (+650 hours of training).
-I’ve spent these last months developing AI projects like Deep Learning applied to Image Classification, segmentation, NLP projects or even more classical Machine Learning. All this implementing dockerized micro-services architecture, Flask-APIs and deploying on AWS servers. My last project was an Object Detection project for in-store inventory management using Convolutional Neural Network for detect missing articles based on images, very Retail Industry oriented.
+I’ve spent this last year working on AI projects using Deep Learning for image classification/detection, NLP and also more classical Machine Learning techniques. All this implementing dockerized micro-services architecture, Flask-API and deploying on AWS. My last project was an Object Detection project for in-store inventory management using Convolutional Neural Network to detect missing articles using Computer Vision.
 
-More related to my background, I have a couple of years of experience programing in MATLAB and Python which I’ve used to build an Impulse Response software for acoustic measurement & characterization of a room, and a Kalman Filter to predict audio signals in noisy environment. I also have experience with sounds systems installations and tutoring math, algebra & physics to high school students.
+More related to my background, I started to code on MATLAB and I now have +3 years of experience working with Python. I’ve worked on sound-oriented projects like an Impulse Response software for acoustic measurement & characterization of a room, and a Kalman Filter to predict audio signals in noisy environment. 
+
+I also have some professional experience with audio engineering consulting and teaching math, algebra & physics.
 
 ---
 
