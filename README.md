@@ -14,7 +14,7 @@ More related to my background, I have a couple of years of experience programing
 ---
 
 - <h3 align="left"> Languages:</h3> 
-  - <img align="center" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python** | <img align="center" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB** | <img align="center" alt="Python" width="22px" src="https://imgs.search.brave.com/QzK9M4F3TkAV8BdxNAvdBDENcNDsCKqmPy4RMQMGybs/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9rZWVz/dGFsa3N0ZWNoLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wOC9iYXNoLWxv/Z28tMzAweDMwMC5w/bmc"/> **Bash**
+<img align="center" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python** | <img align="center" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB** | <img align="center" alt="Python" width="22px" src="https://imgs.search.brave.com/QzK9M4F3TkAV8BdxNAvdBDENcNDsCKqmPy4RMQMGybs/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9rZWVz/dGFsa3N0ZWNoLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wOC9iYXNoLWxv/Z28tMzAweDMwMC5w/bmc"/> **Bash**
 
 - <h3 align="left"> Frameworks:</h3> 
   - **Scientific computation**: 
