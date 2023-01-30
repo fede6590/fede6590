@@ -36,4 +36,4 @@ More related to my background, I have a couple of years of experience programing
 <a href="mailto:federicoferreyra65@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="aanvikshiki" height="30" width="30" /></a>
 <h3 align="right"> 
   
-  ![](https://komarev.com/ghpvc/?username=nahue-passano)  </h3>
+  ![](https://komarev.com/ghpvc/?username=federico-ferreyra)  </h3>
