@@ -19,9 +19,9 @@ More related to my background, I have a couple of years of experience programing
   
 - <h3 align="left"> Frameworks</h3> 
 
-  - **Scientific computation** - <img align="center" alt="Numpy" width="22px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />  **Numpy** | <img align="center" alt="Scipy" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />  **Scipy**  
+  - **Scientific computation** - <img align="center" alt="Numpy" width="22px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />  **Numpy** | <img align="center" alt="SciPy" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />  **SciPy**  
   - **Data manipulation & visualization** - <img align="center" alt="Pandas" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />  **Pandas** | <img align="center" alt="Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /> **MatplotLib** | <img align="center" alt="Matplotlib" width="22px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />  **Seaborn**
-  - **Machine & Deep Learning** - <img align="center" alt="ScikitLearn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />  **Scikit-Learn** | <img align="center" alt="TensorFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />  **TensowFlow** | <img align="center" alt="Keras" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />  **Keras** | <img align="center" alt="PyTorch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />  **PyTorch** 
+  - **Machine & Deep Learning** - <img align="center" alt="Scikit-Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />  **Scikit-Learn** | <img align="center" alt="TensorFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />  **TensowFlow** | <img align="center" alt="Keras" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />  **Keras** | <img align="center" alt="PyTorch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />  **PyTorch** 
   
 - <h3 align="left"> Tools</h3> 
 
@@ -31,9 +31,9 @@ More related to my background, I have a couple of years of experience programing
 
 <h3 align="left">Contact me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/federico-ferreyra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanvikshiki" height="25" width="25" /></a>  
+<a href="https://www.linkedin.com/in/federico-ferreyra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>  
 <p align="left">
-<a href="mailto:federicoferreyra65@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="aanvikshiki" height="30" width="30" /></a>
+<a href="mailto:federicoferreyra65@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Gmail" height="30" width="30" /></a>
 <h3 align="right"> 
   
   ![](https://komarev.com/ghpvc/?username=federico-ferreyra)  </h3>
