@@ -4,7 +4,7 @@
 
 ---
 
-Born and raised in France and currently living in Buenos Aires, I'm finishing my Sound Engineering program while I obtained my Machine Learning Engineer Certificate at Anyone AI (+650 hours of training).
+Born and raised in France and currently living in Buenos Aires, I obtained my Machine Learning Engineer Certificate at Anyone AI (+650 hours of training) while finishing my Sound Engineering program.
 
 I’ve spent this last year working on AI projects using Deep Learning for image classification/detection, NLP and as well as more classical Machine Learning techniques. All this implementing dockerized micro-services architectures, with Flask-API, Redis, and deploying on AWS. My last project consisted of Object Detection for in-store inventory management using Convolutional Neural Networks to detect missing articles using Computer Vision.
 
