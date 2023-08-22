@@ -8,7 +8,7 @@
 
 With +3 years of hands-on experience in Python applications for Digital Signal Processing (DSP) and Digital Audio, I bring a deep understanding of these domains to my work. 
 
-Currently engaged as an AI Developer at Telecom Argentina, where I am spearheading development, training, and deployment activities using AWS services. My role involves harnessing my technical skills and knowledge to orchestrate the seamless integration of AI solutions.
+Currently engaged as an AI Developer at Telecom Argentina, where I am spearheading development, training, and deployment activities using AWS services. My role involves harnessing my technical skills and knowledge to orchestrate the seamless integration of AI solutions oriented to Computer Vision and audio.
 
 ---
 
