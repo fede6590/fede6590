@@ -4,13 +4,11 @@
 
 ---
 
-Born and raised in France and currently living in Buenos Aires, I obtained my Machine Learning Engineer Certificate at Anyone AI (+650 hours of training) while finishing my Sound Engineering program at UNTreF and I am currently working as a Data Science Tutor at Coderhouse.
++4 years of experience in Audio Engineering, coupled with 2 years working as a Machine Learning Engineer.  My expertise extends to multiple projects executed using prominent tools such as Python, Scikit-Learn, Keras, TensorFlow, PyTorch and Docker. 
 
-I’ve spent this last year working on AI projects using Deep Learning for image classification/detection, NLP as well as more classical Machine Learning techniques. All this implementing dockerized micro-services architectures, with Flask-API, Redis, and deploying on AWS. My last project consisted of Object Detection for in-store inventory management using Convolutional Neural Networks to detect missing articles using Computer Vision.
+With +3 years of hands-on experience in Python applications for Digital Signal Processing (DSP) and Digital Audio, I bring a deep understanding of these domains to my work. 
 
-More related to my background, I started coding on MATLAB and I now have +3 years of experience working with Python. I’ve worked on sound-oriented projects like an Impulse Response software for acoustic measurement & characterization of a room, a Kalman Filter to predict audio signals in noisy environment and most recently Speaker Diarization using Siamese Neural Networks. 
-
-I also have professional experience with audio engineering consulting and teaching math, algebra & physics.
+Currently engaged as an AI Developer at Telecom Argentina, where I am spearheading development, training, and deployment activities using AWS services. My role involves harnessing my technical skills and knowledge to orchestrate the seamless integration of AI solutions.
 
 ---
 
