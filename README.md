@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Federico Ferreyra </h1>
-<h3 align="center">Machine Learning & Sound Engineering
+<h3 align="center">Machine Learning & AI Developer - Sound Engineering
 </h3>
 
 ---
