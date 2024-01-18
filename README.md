@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Federico Ferreyra </h1>
-<h3 align="center">Machine Learning & AI Developer - Sound Engineering
+<h3 align="center">Machine Learning & AI Engineer | Audio & Computer Vision
 </h3>
 
 ---
@@ -8,7 +8,7 @@
 
 With +3 years of hands-on experience in Python applications for Digital Signal Processing (DSP) and Digital Audio, I bring a deep understanding of these domains to my work. 
 
-I am currently engaged as an AI Developer at Telecom Argentina, where I am spearheading development, training, and deployment activities using AWS services. My role involves harnessing my technical skills and knowledge to orchestrate the seamless integration of AI solutions oriented to Computer Vision and audio.
+I am currently engaged as an AI Developer at Telecom Argentina, where I am spearheading development, training, and deployment activities using AWS services. My role involves harnessing my technical skills and knowledge to orchestrate the seamless integration of AI solutions oriented to Audio and Computer Vision.
 
 ---
 
