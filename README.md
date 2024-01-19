@@ -4,11 +4,9 @@
 
 ---
 
-+4 years of experience in Audio Engineering, coupled with 2 years working as a Machine Learning Engineer.  My expertise extends to multiple projects executed using prominent tools such as Python, Scikit-Learn, Keras, TensorFlow, PyTorch and Docker. 
+As an AI Engineer at Telecom Argentina, I leverage my extensive experience in Machine Learning and Audio Engineering to drive innovation in AI initiatives. Over the past 2 years, I've successfully integrated state-of-the-art models into business-oriented AI solutions, achieving seamless integrations with AWS. My expertise spans across Scikit-Learn, Keras, TensorFlow, and PyTorch, which I've used to develop, train, and deploy all kind of ML applications and features. My strong Python foundation, honed through a proven track record of delivering high-quality DSP and Digital Audio solutions, is now my primary tool. 
 
-With +3 years of hands-on experience in Python applications for Digital Signal Processing (DSP) and Digital Audio, I bring a deep understanding of these domains to my work. 
-
-I am currently engaged as an AI Developer at Telecom Argentina, where I am spearheading development, training, and deployment activities using AWS services. My role involves harnessing my technical skills and knowledge to orchestrate the seamless integration of AI solutions oriented to Audio and Computer Vision.
+My role involves not only technical prowess but also strong communication skills, enabling me to effectively collaborate with cross-functional teams and stakeholders. Fluent in English, French and Spanish, I am adept at translating complex technical concepts into understandable terms for non-technical audiences.
 
 ---
 
