@@ -36,8 +36,5 @@ My hands-on expertise spans a range of applications, from engineering complex, C
 <h3 align="left">Contact</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/federico-ferreyra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>  
-<p align="left">
-<a href="mailto:federicoferreyra65@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Gmail" height="30" width="30" /></a>
-<h3 align="right"> 
   
   ![](https://komarev.com/ghpvc/?username=federico-ferreyra)  </h3>
